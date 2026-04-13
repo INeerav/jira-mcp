@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -rf jira_mcp-main)",
+      "Bash(git init:*)",
+      "Bash(git config:*)"
+    ]
+  }
+}
